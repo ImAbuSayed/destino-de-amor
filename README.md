@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/destino-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Destino de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destino-de-amor/) |
+| **Get License** | [Secure Licensing Rights for Destino de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destino-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tonight the moon is calling your name
+> Your skin on mine ignites the flame
+> We dance between the pleasure and the pain
+> Destino de amor, I'll never be the same
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
