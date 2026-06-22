@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/destino-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Destino de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destino-de-amor/) |
+| **Get License** | [Get a Licensing Quote for Destino de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destino-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b60fb33f2f834a942cbf3805439537826cf8920b070ff69b22e2a2b7622f9c58` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

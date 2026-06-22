@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Destino de amor
+
+This log tracks the cryptographic history and versioning for the song **Destino de amor** (destino-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T04:27:19.008720 | `v1` | `b60fb33f2f834a942cbf3805439537826cf8920b070ff69b22e2a2b7622f9c58` | `b9aae44d522727a5c16c66bb1317aeb44c54f8544d137617a1fbcecaea46c4e1` | `2026-06-23_destino-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
